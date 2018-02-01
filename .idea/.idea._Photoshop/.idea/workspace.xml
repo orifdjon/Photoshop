@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Data/Pixel.cs" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea8f27dd-ed76-4e93-932f-fd183a8d1024" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Main.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <folding>
+                <marker date="1455599029840" expanded="false" signature="6:41" ph="..." />
+                <marker date="1455599029840" expanded="true" signature="64:268" ph="{...}" />
+                <marker date="1455599029840" expanded="true" signature="83:266" ph="{...}" />
+                <marker date="1455599029840" expanded="true" signature="148:263" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52027F7F-FCF4-4CC5-BEC1-194B692B039E/5a/c88155c1/Application.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="2161" column="10" lean-forward="false" selection-start-line="2161" selection-start-column="10" selection-end-line="2161" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Convertors.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Convertors.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-33">
+              <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <marker date="1517505791804" expanded="false" signature="6:35" ph="..." />
+                <marker date="1517505791804" expanded="true" signature="58:1487" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="95:1485" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="154:690" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="277:653" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="344:639" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="732:945" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="1001:1479" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="1120:1444" ph="{...}" />
+                <marker date="1517505791804" expanded="true" signature="1187:1430" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pixel.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data/Pixel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="71" column="5" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+              <folding>
+                <marker date="1517506422634" expanded="true" signature="6:104" ph="..." />
+                <marker date="1517506422634" expanded="true" signature="127:1637" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="153:1635" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="210:332" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="383:500" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="551:687" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="740:821" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="874:955" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="1008:1089" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="1156:1355" ph="{...}" />
+                <marker date="1517506422634" expanded="true" signature="1430:1629" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IFilter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Filters/IFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+              <folding>
+                <marker date="1517500684672" expanded="true" signature="36:778" ph="{...}" />
+                <marker date="1517500684672" expanded="true" signature="67:776" ph="{...}" />
+                <marker date="1517500684672" expanded="true" signature="79:298" ph="/// Этот метод должен возвращать описание параметров, которые появляются в NumericUpDown-контроле ... " />
+                <marker date="1517500684672" expanded="true" signature="347:719" ph="/// Этот метод принимает фотографию, которую надо обрабатывать, и численные значения всех параметров ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Photo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data/Photo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding>
+                <marker date="1517505791724" expanded="true" signature="6:66" ph="..." />
+                <marker date="1517505791724" expanded="true" signature="89:443" ph="{...}" />
+                <marker date="1517505791724" expanded="true" signature="111:441" ph="{...}" />
+                <marker date="1517505791724" expanded="true" signature="242:302" ph="{...}" />
+                <marker date="1517505791724" expanded="true" signature="341:438" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LighteningFilter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+              <folding>
+                <marker date="1517506383754" expanded="true" signature="36:866" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="82:864" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="135:330" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="183:319" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="373:437" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="504:858" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="634:821" ph="{...}" />
+                <marker date="1517506383754" expanded="true" signature="704:807" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52027F7F-FCF4-4CC5-BEC1-194B692B039E/5a/c88155c1/Application.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Filters/IFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AAA0A04F-2701-4490-8178-2ED1EEF2CB15/1b/7e3eb8d5/Bitmap.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Filters/ParameterInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Photo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Convertors.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Window/MainWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data/Pixel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Main.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Filters/IFilter.cs" />
+        <option value="$PROJECT_DIR$/Data/Convertors.cs" />
+        <option value="$PROJECT_DIR$/Data/Photo.cs" />
+        <option value="$PROJECT_DIR$/Filters/LighteningFilter.cs" />
+        <option value="$PROJECT_DIR$/Data/Pixel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="_Photoshop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="_Photoshop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Photoshop" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="_Photoshop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Photoshop" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Data" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="_Photoshop (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Photoshop" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Filters" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Incapsulation.Failures.csproj/Incapsulation.Failures.csproj" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/Debug/MyPhotoshop.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Photoshop.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.0" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea8f27dd-ed76-4e93-932f-fd183a8d1024" name="Default" comment="" />
+      <created>1517497488447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517497488447</updated>
+      <workItem from="1517497489572" duration="8746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8746000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4962742" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/52027F7F-FCF4-4CC5-BEC1-194B692B039E/5a/c88155c1/Application.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="2161" column="10" lean-forward="false" selection-start-line="2161" selection-start-column="10" selection-end-line="2161" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding>
+            <marker date="1455599029840" expanded="false" signature="6:41" ph="..." />
+            <marker date="1455599029840" expanded="true" signature="64:268" ph="{...}" />
+            <marker date="1455599029840" expanded="true" signature="83:266" ph="{...}" />
+            <marker date="1455599029840" expanded="true" signature="148:263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Window/MainWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="135" column="50" lean-forward="false" selection-start-line="135" selection-start-column="50" selection-end-line="135" selection-end-column="50" />
+          <folding>
+            <marker date="1455599287183" expanded="false" signature="6:133" ph="..." />
+            <marker date="1455599287183" expanded="true" signature="156:4292" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="190:4290" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="426:1065" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="1109:1957" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="2009:2162" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="2089:2158" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="2214:3381" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="2716:3342" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="3434:4277" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="3767:4238" ph="{...}" />
+            <marker date="1455599287183" expanded="true" signature="4042:4209" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/ParameterInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1455599029840" expanded="false" signature="6:85" ph="..." />
+            <marker date="1455599029840" expanded="true" signature="108:552" ph="{...}" />
+            <marker date="1455599029840" expanded="true" signature="115:338" ph="/// Этот класс содержит описание одного параметра фильтра: как он называется, в каких пределах изменяется, и т.д. ... " />
+            <marker date="1455599029840" expanded="true" signature="369:550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AAA0A04F-2701-4490-8178-2ED1EEF2CB15/1b/7e3eb8d5/Bitmap.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tasks.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Photo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1517505791724" expanded="true" signature="6:66" ph="..." />
+            <marker date="1517505791724" expanded="true" signature="89:443" ph="{...}" />
+            <marker date="1517505791724" expanded="true" signature="111:441" ph="{...}" />
+            <marker date="1517505791724" expanded="true" signature="242:302" ph="{...}" />
+            <marker date="1517505791724" expanded="true" signature="341:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/IFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <marker date="1517500684672" expanded="true" signature="36:778" ph="{...}" />
+            <marker date="1517500684672" expanded="true" signature="67:776" ph="{...}" />
+            <marker date="1517500684672" expanded="true" signature="79:298" ph="/// Этот метод должен возвращать описание параметров, которые появляются в NumericUpDown-контроле ... " />
+            <marker date="1517500684672" expanded="true" signature="347:719" ph="/// Этот метод принимает фотографию, которую надо обрабатывать, и численные значения всех параметров ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Convertors.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <marker date="1517505791804" expanded="false" signature="6:35" ph="..." />
+            <marker date="1517505791804" expanded="true" signature="58:1487" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="95:1485" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="154:690" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="277:653" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="344:639" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="732:945" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="1001:1479" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="1120:1444" ph="{...}" />
+            <marker date="1517505791804" expanded="true" signature="1187:1430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Filters/LighteningFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="26" column="63" lean-forward="false" selection-start-line="26" selection-start-column="63" selection-end-line="26" selection-end-column="63" />
+          <folding>
+            <marker date="1517506383754" expanded="true" signature="36:866" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="82:864" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="135:330" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="183:319" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="373:437" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="504:858" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="634:821" ph="{...}" />
+            <marker date="1517506383754" expanded="true" signature="704:807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/Pixel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="71" column="5" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+          <folding>
+            <marker date="1517506422634" expanded="true" signature="6:104" ph="..." />
+            <marker date="1517506422634" expanded="true" signature="127:1637" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="153:1635" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="210:332" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="383:500" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="551:687" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="740:821" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="874:955" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="1008:1089" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="1156:1355" ph="{...}" />
+            <marker date="1517506422634" expanded="true" signature="1430:1629" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

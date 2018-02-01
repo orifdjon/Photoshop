@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Arif\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\__Photoshop.-358621591.00" t="ExcludeRecursive" />
+    <e p="D:\MyProject\C#\_Photoshop" t="IncludeRecursive">
+      <e p="_Photoshop.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="cat.jpg" t="Include" />
+      <e p="Data" t="Include">
+        <e p="Convertors.cs" t="Include" />
+        <e p="Photo.cs" t="Include" />
+        <e p="Pixel.cs" t="Include" />
+      </e>
+      <e p="Filters" t="Include">
+        <e p="IFilter.cs" t="Include" />
+        <e p="LighteningFilter.cs" t="Include" />
+        <e p="ParameterInfo.cs" t="Include" />
+      </e>
+      <e p="Main.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Photoshop.csproj" t="IncludeRecursive" />
+      <e p="Tasks.txt" t="Include" />
+      <e p="Window" t="Include">
+        <e p="MainWindow.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
